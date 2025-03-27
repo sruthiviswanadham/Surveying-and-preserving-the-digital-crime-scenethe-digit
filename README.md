@@ -19,26 +19,31 @@ Data recovery from unallocated space, using forensic tools(Autospy) to extract a
 - Launch **Autopsy** and **Run as a administrator**  
 - Click **Create New Case**.  
 
-![](./images/a1.png)
+![image](https://github.com/user-attachments/assets/bb846afa-f60d-4cd9-80c5-a7005ca1a49a)
+
 
 - Enter a **Case Name** (e.g., `Autopsy1`).  
 - Choose a **Case Folder** location.  
 - Click **Next** → Click **Finish**.  
 
-![](./images/a2.png)
+![image](https://github.com/user-attachments/assets/ec41e1d7-d355-4a5d-ac99-06d3022148ba)
+
 
 ### **Add the Virtual Disk as an Evidence Source**  
 - Click **Add Data Source**  → **Select Host**
 
-![](./images/a3.png)
+![image](https://github.com/user-attachments/assets/24272597-da31-4605-9b3f-38308b4c1c5a)
+
 
 - Select **Local Disk** → **next** 
 
-![](./images/a4.png)
+![image](https://github.com/user-attachments/assets/ce2135ef-2792-4ba4-b436-79194567b234)
+
 
 - Select Disk → **Choose the VHD drive (`Drive1`)**
 
-![](./images/a5.png)
+![image](https://github.com/user-attachments/assets/79e9d500-9a12-41c6-bb30-2ed4b9dc4b10)
+
 
 - Click **Next** → Keep default settings → Click **Finish**.  
 - Wait for Autopsy to process the disk.  
@@ -46,17 +51,21 @@ Data recovery from unallocated space, using forensic tools(Autospy) to extract a
 ### **Recover Deleted Files**  
 - Go to **File Views** (left panel).  
 
-![](./images/a6.png)
+![image](https://github.com/user-attachments/assets/196f2db5-6a50-4277-a613-e74b45b7de68)
 
-![](./images/a7.png)
+![image](https://github.com/user-attachments/assets/8a73b4f0-2419-4b7b-8d52-8c973b5028ac)
+
+
 
 - Click **Deleted Files** → Find your deleted images.  
 - Right-click an image → Click **Extract File**.  
 
-![](./images/a8.png)
+![image](https://github.com/user-attachments/assets/8d1190d2-efcb-45ba-892f-7d93cc522f01)
+
 
 - Select a folder to see the recovered files (e.g., `C:\forensic`).  
 - Image is recovered successfully.
+
 
 
 ## Output :
