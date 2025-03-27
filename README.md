@@ -52,8 +52,8 @@ Data recovery from unallocated space, using forensic tools(Autospy) to extract a
 - Go to **File Views** (left panel).  
 
 ![image](https://github.com/user-attachments/assets/196f2db5-6a50-4277-a613-e74b45b7de68)
+![image](https://github.com/user-attachments/assets/c0ec2e18-bbb7-43f2-be24-18d0172cece8)
 
-![image](https://github.com/user-attachments/assets/8a73b4f0-2419-4b7b-8d52-8c973b5028ac)
 
 
 
@@ -72,8 +72,9 @@ Data recovery from unallocated space, using forensic tools(Autospy) to extract a
 ### Folder before deleting the files
 ![Screenshot 2025-03-20 141943](https://github.com/user-attachments/assets/4cf1c400-c023-4dde-b4ed-5c542bbd112e)
 
-## Recovery of images after using autopsy tool
-![image](https://github.com/user-attachments/assets/b07df47b-4bc0-40c6-bd3e-317d1bf81724)
+## Folder after deleting the files
+![image](https://github.com/user-attachments/assets/f8f95886-15d7-4bc2-bde7-33d9aca7bb2e)
+
 
 
 
